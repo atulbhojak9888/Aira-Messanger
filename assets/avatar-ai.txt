@@ -1,0 +1,1 @@
+Add avatar-ai.png (48x48) here. If missing, App will still run but avatar require will fail in some RN packagers.
